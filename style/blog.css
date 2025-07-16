@@ -1,12 +1,11 @@
 .open-sans-font{
 font-family: "Open Sans", sans-serif;
 font-optical-sizing: auto;
-font-weight: <weight>;
+font-weight:400;
 font-style: normal;
-font-variation-settings:
-    "wdth" 100;
+font-variation-settings:"wdth" 100;
 }
-}
+
 .nav-tittle1{
     display: flex;
     justify-content: left;
@@ -172,7 +171,7 @@ text-align: center;
     padding: 30px 30px 50px 50px;;
 }
 .tittle-01{
-  text-align: ;
+  text-align:center;
 }
 .main-05{
     font: bold;
@@ -207,7 +206,7 @@ text-align: center;
     font-size: 25px;
 }
     .mak-333{
-        ;
+
         font: bold;
         font-size: 45;
         color: #252432;
@@ -228,8 +227,8 @@ footer{
 .footer-column{
     width:60%;
 }
-.mak-07{;
-    text-align:right
+.mak-07{
+    text-align:right;
          max-width: 1140px;
            margin: 0 auto;
 
